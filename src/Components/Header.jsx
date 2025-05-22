@@ -98,6 +98,8 @@ function Header({ className = '' }) {
                         <div className="text">
                             Sed ut perspiciatis unde omnis natus error voluptatem sanctum doloremque laudantium, totam rem aperiam, eaque ipsa quae ab nllo inventore veritatis quasi architecto beatae vitae.
                         </div>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde, dolor!</p>
+
                     </div>
 
                     <ul className="contact-list-one">
