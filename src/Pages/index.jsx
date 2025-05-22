@@ -9,7 +9,7 @@ import Gallery from '../Sections/Home/Gallery';
 import News from '../Sections/Home/News';
 import Clients from '../Sections/Home/Clients';
 import Story from '../Sections/Home/Story';
-import Video from '../Sections/Home/Video';
+// import Video from '../Sections/Home/Video';
 import Team2 from '../Sections/Home/Team2';
 import Testimonials from '../Sections/Home/Testimonials';
 import BackToTop from '../Components/BackToTop';
@@ -25,7 +25,7 @@ function Home() {
                     <Couple />
                     <Countdown />
                     <Story />
-                    <Video />
+                    {/* <Video /> */}
                     <Team />
                     <Team2 />
                     <Clients className="pt-0" />

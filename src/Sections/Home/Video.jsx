@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import ModalVideo from 'react-modal-video';
+// import ModalVideo from 'react-modal-video';
 import videoImage from '../../assets/images/resource/video-1.jpg'; 
 
 const VideoSection = () => {
